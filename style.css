@@ -1,0 +1,27 @@
+body{background: #efefef url(images/fon.jpg); margin: 0; padding: 0; font: 16px/24px Arial, Tahoma ;}
+a{text-decoration: none;}
+
+
+/*Структура сайта*/
+div.header{ background: #000000;}
+
+
+/*Шапка сайта*/
+div.topmenu{float: right;}
+div.topmenu a{color: #ffffff; font-weight: bold;}
+div.topmenu a:hover{color: #0000ff; }
+
+
+/*Меню редактора шапки*/
+div.shapka{background: #D3D3D3; border: 1px solid: #ffffff;}
+div.shapka{word-spacing: 15px; padding: 0px 100px;}
+
+/*Меню музыки*/
+div.music{background: #ffffff; margin: 30px; padding: 0px 50px;}
+
+div.zena{margin-right: 20px; padding: 0px 5px; font-weight: bold;}
+div.Nazvanie{font-weight: bold;}
+div.music{background: #ffffff; margin: 30px; padding: 0px 50px;}
+
+
+div.footer{float: right; color: grey;}
